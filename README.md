@@ -24,6 +24,13 @@ A Python tool that extracts and translates text from files or websites.
 
 ## ▶️ How to Run
 
+## 📦 Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+
 ```bash
 python main.py
 ```
