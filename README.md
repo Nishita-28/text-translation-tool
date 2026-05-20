@@ -13,7 +13,7 @@ A Python tool that extracts and translates text from files or websites.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * Python
 * requests
